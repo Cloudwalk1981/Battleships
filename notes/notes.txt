@@ -1,0 +1,9 @@
+Random notes and considerations.
+
+Board = 10 by 10
+Each players has the following boats:
+- Carrier x 1 (size 5)
+- Battleship x 2 (size 4)
+- Destroyer x 3 (size 3)
+- Submarine x 4 (size 3)
+- Patrol Boat x 5 (size 2)
